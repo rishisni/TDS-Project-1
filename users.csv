@@ -1,0 +1,33 @@
+login,name,company,location,email,hireable,bio,public_repos,followers,following,created_at
+brianyu28,Brian Yu,,"Boston, MA",brian@brianyu.me,,Software developer and educator,35,13202,13,2015-11-29T07:25:29Z
+PatrickAlphaC,Patrick Collins,CYFRIN,Boston,,,"Smart Contract Engineer, Auditor, and Educator",272,9668,43,2019-08-19T14:13:41Z
+KeithGalli,Keith Galli,,"Boston, MA",,True,YouTube Content Creator :).,53,5679,1,2013-12-25T19:49:26Z
+CharlesCreativeContent,Shawn Charles,AMAZON,"Boston, MA",,True,Software Engineer building Tech Communities,83,5054,1092,2020-03-11T20:10:11Z
+timbl,Tim Berners-Lee,INRUPT,Boston MA USA,timbl@w3.org,,,18,4850,69,2011-12-11T01:28:03Z
+bahmutov,Gleb Bahmutov,,"Boston, MA",gleb.bahmutov@gmail.com,,"JavaScript ninja, image processing expert, software quality fanatic. Sr Director of Engineering at Mercari US. MS MVP for OSS work, GitHub Star.",1245,4793,25,2012-08-24T14:34:53Z
+migueldeicaza,Miguel de Icaza,XIBBON,"Boston, MA.",miguel@gnome.org,,,193,4691,69,2008-11-26T22:37:16Z
+rwaldron,Rick Waldron,,"Boston, MA",waldron.rick@gmail.com,,He/him.,799,4408,53,2008-10-07T19:40:37Z
+nikomatsakis,Niko Matsakis,,"Boston, MA",niko@alum.mit.edu,,,253,3909,0,2009-11-19T07:01:48Z
+lh3,Heng Li,DFCI & HARVARD UNIVERSITY,"Boston, MA, USA",lh3@me.com,,,122,3874,8,2010-11-13T18:38:38Z
+cowboy,Ben Alman,,"Boston, MA",cowboy@rj3.net,,pronoun.is/he/him,134,3542,19,2009-02-12T20:36:15Z
+jlooper,Jen Looper,AMAZON,Boston,,,"Head of Academic Advocacy, AWS. Author with Wiley: textbook Computer Science for Kids: A Storytelling Approach + The Illustrated AWS Cloud",133,3179,35,2012-02-18T21:25:33Z
+ccoenraets,Christophe Coenraets,SALESFORCE.COM,Boston,ccoenraets@gmail.com,,,145,2973,0,2010-09-01T19:59:57Z
+rstudio,RStudio,,"Boston, MA",info@rstudio.org,,,352,2697,0,2010-12-07T19:03:35Z
+pluskid,Chiyuan Zhang,MIT,"Boston, MA",pluskid@gmail.com,,,30,2520,0,2008-03-21T16:07:50Z
+leonnoel,Leon Noel,RESILIENT CODERS,Boston,,,"Managing Director Of Engineering @ Resilient Coders
+",129,2361,44,2010-08-17T04:51:07Z
+nedbat,Ned Batchelder,,Boston,ned@nedbatchelder.com,,,121,2288,0,2008-09-09T10:48:29Z
+rapid7,Rapid7,,"Boston, MA",security@rapid7.com,,,301,2002,0,2011-08-30T05:45:04Z
+quantopian,"Quantopian, Inc.",,"Boston, MA, USA",,,Quantopian builds software tools and libraries for quantitative finance.,97,1905,0,2012-01-31T01:13:34Z
+cferdinandi,Chris Ferdinandi,,"Boston, MA",,True,,249,1837,2,2012-05-10T01:08:44Z
+processing,Processing Foundation,,"Boston, New York, Los Angeles, Worldwide",,,"We create platforms to promote software literacy within the visual arts, and visual literacy within technology-related fields.",57,1647,0,2012-04-06T00:27:35Z
+davisking,Davis E. King,,"Boston, MA",davis@dlib.net,,,8,1597,0,2013-12-25T13:39:24Z
+markbates,Mark Bates,"META42 LABS, LLC","Boston, MA",mark+github@markbates.com,,Mark Bates is a full stack web developer with over 18 years of experience building high quality scalable applications for companies.,138,1576,0,2008-03-21T15:55:40Z
+r00k,Ben Orenstein,TUPLEAPP,"Boston, MA",,,"CEO/co-founder of Tuple, a tool for remote pair programming: https://tuple.app.",86,1570,0,2009-01-15T01:59:49Z
+REMitchell,REMitchell,GERSON LEHRMAN GROUP,"Boston, MA",Ryan.E.Mitchell@gmail.com,,"Senior Software Engineer at GLG author of ""Web Scraping with Python"" and ""Instant Web Scraping with Java""",30,1565,5,2010-11-05T14:31:02Z
+rafalab,Rafael A Irizarry,HARVARD AND DANA-FARBER CANCER INSTITUTE,"Boston, MA",,,I am a Professor of Applied Statistics at Harvard and the Dana-Farber Cancer Institute. @rafalab,48,1491,2,2013-08-28T13:21:46Z
+brohrer,Brandon Rohrer,,Boston,brohrer@gmail.com,,"I also have some current work in GitLab. Come say hi.
+https://gitlab.com/brohrer",50,1381,3,2012-01-26T04:42:08Z
+jtauber,James Tauber,SIGNUM UNIVERSITY,"Greater Boston Area, US",jtauber@jtauber.com,True,"Python and Web developer using linguistics, data science, and open source software to help people better understand languages and texts.",135,1225,76,2008-09-13T11:47:30Z
+andralex,Andrei Alexandrescu,NVIDIA,Boston Greater Area,,,"Researcher, software engineer, and author.",26,974,11,2011-01-15T20:39:03Z
+dsmilkov,Daniel Smilkov,LILAC AI,"Boston, MA",dsmilkov@gmail.com,True,"Co-founder of Lilac AI, acquired by @databricks. Co-created TensorFlow.js. Ex: Google Brain, PAIR, MIT Media Lab",10,967,4,2012-09-06T19:57:14Z
